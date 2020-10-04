@@ -197,7 +197,7 @@ Bei `void loop(){}` prüfen wir mit der Funktion `if(){}` , ob der Taster gedrü
 Am Ende wartet der Arduino `180` Millisekunden mit der Funktion `delay()`. Das tun wir, weil wenn man einen Taster am Arduino anschließt und diesen drückt, kann es sein, dass der Arduino den Tastendruck als mehrmaliges Drücken registriert. Dieses Phänomen nennt man "prellen". Im Normalfall kann man dieses Problem durch das Einfügen eines delays von `180` Millisekunden lösen.
 
 ---
-## Zussamenfassung
+## Zusammenfassung
 
 Um das endgültige Projekt zu programmieren, müsst ihr eine Glühbirne, zwei Motoren und drei Taster an die digitalen Pins eurer Wahl anschließen. 
 
