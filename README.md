@@ -45,7 +45,7 @@ pinMode(13, INPUT);
 
 In diesem Projekt müsst ihr zusätzlich den Modus `INPUT_PULLUP` verwenden. 
 Was bedeutet `INPUT_PULLUP`? 
-Mit diesem Modus werden eingebaute Widerstände innerhalb der Arduino-Platine aktiviert. Das Ziel ist es, am Eingangspin für ein eindeutig definiertes Signal, entweder LOW oder HIGH, zu sorgen. 
+Mit diesem Modus werden eingebaute Widerstände innerhalb der Arduino-Platine aktiviert.
 Dieser Modus, genau so wie bei `INPUT`, sagt dem Arduino, dass der Komponent, der mit dem betreffenden Pin verbunden ist, Signale an den Arduino sendet.
 
 ```arduino
@@ -122,7 +122,7 @@ digitalRead(10);
 Wenn ein Pin als `INPUT_PULLUP` deklariert ist, werden seine Werte umgekehrt. Das heißt, wenn der Taster früher `HIGH`-Signale gab, als es gedrückt war, sendet er jetzt `LOW`-Signale.
 
 > Also merkt ihr euch:  
-> Wenn ein Pin als `INPUT_PULLUP` deklariert wird, entsprechen seine Werte den Gegenwerten eines als INPUT deklarierten Pins.
+> Wenn ein Pin als `INPUT_PULLUP` deklariert wird, entsprechen seine Werte den Gegenwerten eines als `INPUT` deklarierten Pins.
 
  ---
  ## == Operator
