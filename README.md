@@ -6,7 +6,7 @@ Die Aufgabe bei diesem Projekt ist es, ein Programm zu schreiben, mit dem man mi
 
 Als erstes, erklären wir euch die unterschiedlichen Strukturen und Funktionen, die für dieses Projekt spezifisch innerhalb der Funktion void setup() wissenswert sind und was ihr bei der Funktion void loop() können muss.
 
-> Wir haben ein Video über das Thema gemacht, wo wir die verschiedene Funktionen des Codes erklären. Wenn ihr das Video nochmal sehen möchtet, clicke [HIER](https://youtu.be/ne3wZrqCxOM)
+> Wir haben ein Video über das Thema gemacht, wo wir die verschiedene Funktionen des Codes erklären. Wenn ihr das Video nochmal sehen möchtet, clicke [HIER](https://youtu.be/PzI8oVjEjOs)
 ---
 Wir werden die Funktionen in der folgenden Reihenfolge erklären:
 1. `pinMode()`
@@ -211,7 +211,7 @@ Das ist alles. Wir hoffen ihr habt alles verstanden!
 
 Hier endet die Erklärung des Projekt_6, wenn ihr etwas noch nicht verstanden habt, könnt ihr uns gerne fragen. 
 
- > Falls ihr den Video zum endgültigen Projekts sehen wollt, könnt ihr [HIER](https://youtu.be/ne3wZrqCxOM) clicken. 
+ > Falls ihr den Video zum endgültigen Projekts sehen wollt, könnt ihr [HIER](https://youtu.be/PzI8oVjEjOs) clicken. 
 
 
 ### Viel Spaß beim Programmieren!
