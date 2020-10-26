@@ -15,7 +15,7 @@ Wir werden die Funktionen in der folgenden Reihenfolge erklären:
 1. `== Operator`
 1. `! Operator`
 1. `Zeile des Codes`
-1. `Zusamenfassung`
+1. `Zusammenfassung`
 ---
 ## pinMode()
 
